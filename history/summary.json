@@ -4,9 +4,9 @@
     "url": "https://fintechos.com",
     "icon": "https://favicons.githubusercontent.com/fintechos.com",
     "slug": "fintech-os",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 1013,
     "timeMonth": 1001,
     "timeYear": 981,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-10": 0
+    }
   },
   {
     "name": "Inside FintechOS",
     "url": "https://inside.fintechos.com",
     "icon": "https://favicons.githubusercontent.com/inside.fintechos.com",
     "slug": "inside-fintech-os",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 761,
     "timeMonth": 753,
     "timeYear": 712,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-10": 0
+    }
   },
   {
     "name": "DCX360",
