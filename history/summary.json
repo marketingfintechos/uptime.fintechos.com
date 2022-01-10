@@ -4,19 +4,19 @@
     "url": "https://fintechos.com",
     "icon": "https://favicons.githubusercontent.com/fintechos.com",
     "slug": "fintech-os",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 981,
-    "timeDay": 1247,
-    "timeWeek": 1013,
-    "timeMonth": 1001,
-    "timeYear": 981,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 983,
+    "timeDay": 1256,
+    "timeWeek": 1044,
+    "timeMonth": 1009,
+    "timeYear": 983,
     "dailyMinutesDown": {
-      "2022-01-10": 0
+      "2022-01-10": 16
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://inside.fintechos.com",
     "icon": "https://favicons.githubusercontent.com/inside.fintechos.com",
     "slug": "inside-fintech-os",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 712,
-    "timeDay": 933,
-    "timeWeek": 761,
-    "timeMonth": 753,
-    "timeYear": 712,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 713,
+    "timeDay": 960,
+    "timeWeek": 789,
+    "timeMonth": 761,
+    "timeYear": 713,
     "dailyMinutesDown": {
-      "2022-01-10": 0
+      "2022-01-10": 16
     }
   },
   {
